@@ -1,2 +1,2 @@
 # PHP
-<img width="242" height="208" alt="image" src="https://github.com/user-attachments/assets/956f93e1-369f-4e7b-8a78-00d475a51031" />
+<img width="1152" height="648" alt="sim" src="https://github.com/user-attachments/assets/db5dde0a-115a-4ece-852b-264450bb72bf" />
